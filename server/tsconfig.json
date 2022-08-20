@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "rootDir": "./",
+    "outDir": "./dist",
+    "esModuleInterop": true,
+    "strict": true,
+    "experimentalDecorators": true,
+    "allowJs": true,
+    "strictPropertyInitialization": false,
+    "emitDecoratorMetadata":true,
+    "types": ["node"],
+  },
+  "include": [".//**/*.ts"]
+}
